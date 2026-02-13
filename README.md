@@ -1,7 +1,5 @@
-# 🏠 A-Z Household Services Application
-
-🎓 **Modern Application Development**
-👤 **Author: Parth Kacha** 
+# Modern Application Development 
+# A-Z_Household-Services 🏠
 
 ---
 
@@ -116,12 +114,6 @@ The database schema is designed to support:
 
 ---
 
-## ▶️ Project Demonstration
-
-🎥 Project Video:  
-https://youtu.be/zsettysl-Nk
-
----
 
 ## 🚀 Key Highlights
 
