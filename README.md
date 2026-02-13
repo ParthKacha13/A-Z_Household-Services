@@ -1,6 +1,6 @@
 # 🏠 A-Z Household Services Application
 
-🎓 Modern Application Development
+🎓 **Modern Application Development**
 👤 Author: Parth Kacha 
 
 ---
